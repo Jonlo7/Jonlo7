@@ -11,7 +11,7 @@
 - **Estudios:**
   - Doble Grado en Ingeniería Electrónica Industrial y Automática + Ingeniería Informática en la Universidad de Deusto (Bilbao).
   - Actualmente cursando un Máster en Ingeniería del Software y Sistemas Informáticos.
-- **Experiencia Profesional:** Actualmente realizando prácticas en **Mairu** como desarrollador Software **FullStack**.
+- **Experiencia Profesional:** Actualmente realizando prácticas en <a href="https://mairu.digital/">**Mairu** </a> como desarrollador Software **FullStack**.
 
 ---
 
