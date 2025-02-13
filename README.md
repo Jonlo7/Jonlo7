@@ -10,8 +10,8 @@
 - **Localización:** Bilbao, España
 - **Estudios:**
   - Doble Grado en Ingeniería Electrónica Industrial y Automática + Ingeniería Informática en la Universidad de Deusto (Bilbao).
-  - Actualmente:
-      + cursando un Máster en Ingeniería del Software y Sistemas Informáticos.
+  - Cursando actualmente:
+      + Máster en Ingeniería del Software y Sistemas Informáticos.
       + Programa Superior Universitario en Inteligencia Artificial para Desarrollo de Software y DevOps.
 - **Experiencia Profesional:** Actualmente realizando prácticas en <a href="https://mairu.digital/">**Mairu** </a> como desarrollador Software **FullStack**.
 
