@@ -1,6 +1,6 @@
 # Hi there 👋, soy Jon Lopez Carrillo
 
-¡Bienvenido a mi espacio en GitHub! Soy un apasionado desarrollador FullStack que disfruta tanto de la tecnología como del deporte y los videojuegos. Nací el **18 de junio de 2001** en **Bilbao, España**, y actualmente tengo 23 años.
+¡Bienvenido a mi espacio en GitHub! Soy un apasionado desarrollador FullStack que disfruta tanto de la tecnología como del deporte y los videojuegos. Nací el **18 de junio de 2001** en **Bilbao, España**, y actualmente tengo 25 años.
 
 ---
 
